@@ -8,7 +8,7 @@ This site showcases my skills, projects, and experience in **Machine Learning, D
 
 ## 🌐 Live Demo
 
-[Visit My Portfolio](https://your-portfolio-link.com)  
+[Visit My Portfolio](https://hetvikhadela.netlify.app/)  
 
 
 ---
